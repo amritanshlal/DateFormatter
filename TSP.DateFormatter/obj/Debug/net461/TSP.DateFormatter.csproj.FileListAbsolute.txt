@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\bin\Debug\net461\TSP.DateFormatter.dll
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\bin\Debug\net461\TSP.DateFormatter.pdb
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\bin\Debug\net461\TSP.DateFormatter.xml
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.Properties.Resources.resources
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.AssemblyInfo.cs
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.dll
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter\obj\Debug\net461\TSP.DateFormatter.pdb

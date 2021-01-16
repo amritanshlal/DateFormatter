@@ -1,0 +1,58 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TSP.DateFormatter", "TSP.DateFormatter", "{47D11E5B-F05F-4731-A78F-26AF0872B015}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP.DateFormatter", "TSP.DateFormatter\TSP.DateFormatter.csproj", "{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP.DateFormatter.Activities", "TSP.DateFormatter.Activities\TSP.DateFormatter.Activities.csproj", "{FF23E7AE-F655-4196-8DAB-1B922B96307F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TSP.DateFormatter.Activities.Design", "TSP.DateFormatter.Activities.Design\TSP.DateFormatter.Activities.Design.csproj", "{40731542-4041-416A-971E-A300D440E4C5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{F751CE92-917C-408A-A34D-F41C8577DFF6}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities", "..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.shproj", "{4546856D-EA50-45C6-9419-EEEACB5A80AA}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "UiPath.Shared.Activities.Design", "..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.shproj", "{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{40731542-4041-416a-971e-a300d440e4c5}*SharedItemsImports = 5
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{4546856d-ea50-45c6-9419-eeeacb5a80aa}*SharedItemsImports = 13
+		..\Shared\UiPath.Shared.Activities.Design\UiPath.Shared.Activities.Design.projitems*{df9c43f0-add3-4fbf-995e-84b92f9cbf25}*SharedItemsImports = 13
+		..\Shared\UiPath.Shared.Activities\UiPath.Shared.Activities.projitems*{ff23e7ae-f655-4196-8dab-1b922b96307f}*SharedItemsImports = 5
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF23E7AE-F655-4196-8DAB-1B922B96307F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF23E7AE-F655-4196-8DAB-1B922B96307F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF23E7AE-F655-4196-8DAB-1B922B96307F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF23E7AE-F655-4196-8DAB-1B922B96307F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40731542-4041-416A-971E-A300D440E4C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40731542-4041-416A-971E-A300D440E4C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40731542-4041-416A-971E-A300D440E4C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40731542-4041-416A-971E-A300D440E4C5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{42B85D6C-C1A3-4B07-AAF6-3DE1D8D3C9D7} = {47D11E5B-F05F-4731-A78F-26AF0872B015}
+		{FF23E7AE-F655-4196-8DAB-1B922B96307F} = {47D11E5B-F05F-4731-A78F-26AF0872B015}
+		{40731542-4041-416A-971E-A300D440E4C5} = {47D11E5B-F05F-4731-A78F-26AF0872B015}
+		{4546856D-EA50-45C6-9419-EEEACB5A80AA} = {F751CE92-917C-408A-A34D-F41C8577DFF6}
+		{DF9C43F0-ADD3-4FBF-995E-84B92F9CBF25} = {F751CE92-917C-408A-A34D-F41C8577DFF6}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85976BB1-111B-448D-BEE7-1A3AC39866D5}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.Activities.dll
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.Activities.pdb
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.Activities.xml
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.dll
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.pdb
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\bin\Debug\net461\TSP.DateFormatter.xml
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.Properties.Resources.resources
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.csproj.GenerateResource.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.AssemblyInfo.cs
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.csproj.CopyComplete
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.dll
+C:\Users\user\source\repos\TSP.DateFormatter\TSP.DateFormatter.Activities\obj\Debug\net461\TSP.DateFormatter.Activities.pdb
